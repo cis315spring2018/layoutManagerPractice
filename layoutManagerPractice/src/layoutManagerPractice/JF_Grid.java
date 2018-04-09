@@ -16,7 +16,7 @@ import java.awt.Insets;
 import javax.swing.JTextArea;
 
 /**
- * @author atmanning - atmanning@dbq.edu
+ * @author   atmanning - atmanning@dbq.edu
  *
  */
 public class JF_Grid extends JFrame {
